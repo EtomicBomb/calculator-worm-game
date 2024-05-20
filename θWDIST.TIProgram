@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>FnOff "CURRENT LOCATIONX→U:Y→VIf X≠A:Then(B-Y)/(X-A→NElse9999→NEndprgmθWNTOSTRStr0→Str2B+NA→NprgmθWNTOSTR"–"+Str2+"X+"+Str0→Y₁√((A-X)+(B-Y)→R0→dim(⌊BKX0→dim(⌊BKYFor(I,1,16round(Y₁(I),0→JIf J&lt;7 and J&gt;1Then√((A-I)+(B-J)→ER-E→FIf R&gt;F and R&gt;E and [A](J,IThen1+dim(⌊BKX→dim(⌊BKXAns→dim(⌊BKYI→⌊BKX(dim(⌊BKXJ→⌊BKY(dim(⌊BKYOutput(J,I,"*EndEndEnd</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θWDIST</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

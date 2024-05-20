@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>C+1→CIf max(G={24,25,26,34:ThenA→N:B→MprgmθWDRAWA+(G=26 and A&lt;16)-(G=24 and A&gt;1→AB+(G=34 and B&lt;8)-(G=25 and B&gt;1→BDelVar CEndIf C&gt;30DelVar CIf C&lt;15:ThenOutput(B,A,"+ElseA→N:B→MprgmθWDRAWEnd</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θWCURS</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

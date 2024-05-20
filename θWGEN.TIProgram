@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>{7,16→dim([A]4→dim(⌊PX4→dim(⌊PYIf not(N:Then"BLOCKFill(5,[A]For(J,1,2For(I,1,160→[A](J,IEnd:EndFill(2,⌊PYFor(I,1,4I→[A](2,4I-34I-3→⌊PX(IEndElse"COMPLEXFill(0,[A]For(J,6,7For(I,1,165→[A](J,IEnd:EndFill(5,⌊PYFor(I,1,4I→[A](5,4I-34I-3→⌊PX(IEndFor(I,1,16Repeat not([A](M,NrandInt(1,16→NrandInt(1,4→MEnd5→[A](M,NEndEnd</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θWGEN</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

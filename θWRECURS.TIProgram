@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>If U&gt;16&lt;1&gt;8&lt;1:Then1→FReturnEndIf [A](V,U) and not(min({U,V}={A,B:Then1→FReturnEndIf U+1&lt;16:ThenU+1→UprgmθWRECURSU-1→UEndIf U-1&gt;1:ThenU-1→UprgmθWRECURSU+1→UEndIf U+1&lt;16 and V+1&lt;8 and :ThenU+1→U:V+1→VprgmθWRECURSU-1→U:</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θWRECURS</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>{0,0,0,0→⌊DEAD{1,1,1,1→⌊HE{7,16→dim([A]1→NprgmθWGENFor(M,1,7For(N,1,16prgmθWDRAWEnd:End1→A:1→B0→θRepeat sum(⌊HE)=max(⌊HEθ+1→θIf θ&gt;41→θWhile ⌊DEAD(θθ+1→θIf θ&gt;41→θEndOutput(8,1,"{:Output(8,3,int(10(⌊HE(1)+⌊HE(2))/2)Output(8,6,"[:Output(8,8,int(10(⌊HE(3)+⌊HE(4))/2)Output(8,11,"TURN:Output(8,16,sub(Str1,θ+1,1Repeat G=105getKey→Gθ→NprgmθWMOVEEndθ→NprgmθWWEAPONA→N:B→MprgmθWDRAWprgmθWKILLEndClrHomeIf ⌊DEAD(1)DEAD(2:ThenDisp "SQUARES WON!ElseDisp "CURLEYS WON!End</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>WORM</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>
